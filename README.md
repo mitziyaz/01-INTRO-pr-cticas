@@ -10,9 +10,15 @@ Entiendo que se debe crear una página web con la finalidad de automatizar las d
 La página deberá tener un diseño para celular y los colores preferentes son el azul marino y el blanco pero se pueden dar propuestas.
 
 ***Este es el modelo del diagrama de flujo según los requerimientos de los clientes***
+
 ![Untitled-2022-10-11-2059 excalidraw](https://user-images.githubusercontent.com/114790771/195246773-f970624d-25e6-41ac-8e9b-021b8f59ad2a.png)
 
 
 ## Buyer de persona
 
 ![curriculum profesional creativo morado](https://user-images.githubusercontent.com/114790771/195245869-6cb750a6-2b48-40f1-bd87-fe2bb2628718.png)
+
+## Público objetivo
+
+![Target Audience (2)](https://user-images.githubusercontent.com/114790771/195251278-dc79e165-98b0-4d00-b400-c856f5e3cb34.jpg)
+
