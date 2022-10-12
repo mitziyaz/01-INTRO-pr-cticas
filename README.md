@@ -12,3 +12,6 @@ La página deberá tener un diseño para celular y los colores preferentes son e
 ***Este es el modelo del diagrama de flujo según los requerimientos de los clientes***
 
 ![Modelo de flujo abogabot](https://user-images.githubusercontent.com/114790771/195237359-00602687-9da6-47d1-bfe8-4760670ea38c.png)
+
+##Buyer de persona
+![curriculum profesional creativo morado](https://user-images.githubusercontent.com/114790771/195245869-6cb750a6-2b48-40f1-bd87-fe2bb2628718.png)
