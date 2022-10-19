@@ -25,3 +25,8 @@ La página deberá tener un diseño para celular y los colores preferentes son e
 ## Wireframe
 
 ![iPhone App](https://user-images.githubusercontent.com/114790771/196582646-626a0a74-401e-458d-83b8-c81daac5a2c6.jpg)
+
+## UI
+
+![iPhone App (1)](https://user-images.githubusercontent.com/114790771/196583435-df3fc2ab-d3db-45f1-9f66-e44576c5a9ec.jpg)
+
