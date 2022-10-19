@@ -22,3 +22,6 @@ La página deberá tener un diseño para celular y los colores preferentes son e
 
 ![Target Audience (2)](https://user-images.githubusercontent.com/114790771/195251278-dc79e165-98b0-4d00-b400-c856f5e3cb34.jpg)
 
+## Wireframe
+
+![iPhone App](https://user-images.githubusercontent.com/114790771/196582646-626a0a74-401e-458d-83b8-c81daac5a2c6.jpg)
